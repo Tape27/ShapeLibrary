@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "KlzzVEfjPYJnsQNg0Qkobctz4Xo/bgi50i9KMLhXo8Gi/xCcKqv0fA5vG5CKEGXr4s4NZaVTF+Gi+MsdpbSBEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\profi\\Documents\\GitHub\\ShapeLibrary\\ShapeLibrary\\Tests\\ShapeLibrary.Tests\\ShapeLibrary.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\profi\\.nuget\\packages\\microsoft.codecoverage\\17.9.0\\microsoft.codecoverage.17.9.0.nupkg.sha512",
+    "C:\\Users\\profi\\.nuget\\packages\\microsoft.net.test.sdk\\17.9.0\\microsoft.net.test.sdk.17.9.0.nupkg.sha512",
+    "C:\\Users\\profi\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.9.0\\microsoft.testplatform.objectmodel.17.9.0.nupkg.sha512",
+    "C:\\Users\\profi\\.nuget\\packages\\microsoft.testplatform.testhost\\17.9.0\\microsoft.testplatform.testhost.17.9.0.nupkg.sha512",
+    "C:\\Users\\profi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\profi\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\profi\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\profi\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
