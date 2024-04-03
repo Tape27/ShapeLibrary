@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\profi\\Desktop\\ShapeLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84B667AC-6D39-4186-AD87-CA301CD450DE}|ShapeLibrary\\ShapeLibrary.Console.csproj|c:\\users\\profi\\desktop\\shapelibrary\\shapelibrary\\shapelibrary.console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{84B667AC-6D39-4186-AD87-CA301CD450DE}|ShapeLibrary\\ShapeLibrary.Console.csproj|solutionrelative:shapelibrary\\shapelibrary.console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB38DA7-3B87-4F8B-A915-272721B43681}|ShapeLibrary.Domain\\ShapeLibrary.Domain.csproj|c:\\users\\profi\\desktop\\shapelibrary\\shapelibrary.domain\\shapes\\interface\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB38DA7-3B87-4F8B-A915-272721B43681}|ShapeLibrary.Domain\\ShapeLibrary.Domain.csproj|solutionrelative:shapelibrary.domain\\shapes\\interface\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB38DA7-3B87-4F8B-A915-272721B43681}|ShapeLibrary.Domain\\ShapeLibrary.Domain.csproj|C:\\Users\\profi\\Desktop\\ShapeLibrary\\shapelibrary.domain\\shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB38DA7-3B87-4F8B-A915-272721B43681}|ShapeLibrary.Domain\\ShapeLibrary.Domain.csproj|solutionrelative:shapelibrary.domain\\shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB38DA7-3B87-4F8B-A915-272721B43681}|ShapeLibrary.Domain\\ShapeLibrary.Domain.csproj|C:\\Users\\profi\\Desktop\\ShapeLibrary\\shapelibrary.domain\\shapes\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB38DA7-3B87-4F8B-A915-272721B43681}|ShapeLibrary.Domain\\ShapeLibrary.Domain.csproj|solutionrelative:shapelibrary.domain\\shapes\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB38DA7-3B87-4F8B-A915-272721B43681}|ShapeLibrary.Domain\\ShapeLibrary.Domain.csproj|C:\\Users\\profi\\Desktop\\ShapeLibrary\\shapelibrary.domain\\shapes\\interface\\icircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB38DA7-3B87-4F8B-A915-272721B43681}|ShapeLibrary.Domain\\ShapeLibrary.Domain.csproj|solutionrelative:shapelibrary.domain\\shapes\\interface\\icircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74505FFB-A1A6-4513-867F-FCCE2EB7ECD8}|ShapeLibrary.Tests\\ShapeLibrary.Tests.csproj|C:\\Users\\profi\\Desktop\\ShapeLibrary\\shapelibrary.tests\\shapes\\circletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74505FFB-A1A6-4513-867F-FCCE2EB7ECD8}|ShapeLibrary.Tests\\ShapeLibrary.Tests.csproj|solutionrelative:shapelibrary.tests\\shapes\\circletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74505FFB-A1A6-4513-867F-FCCE2EB7ECD8}|ShapeLibrary.Tests\\ShapeLibrary.Tests.csproj|C:\\Users\\profi\\Desktop\\ShapeLibrary\\shapelibrary.tests\\shapes\\triangletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74505FFB-A1A6-4513-867F-FCCE2EB7ECD8}|ShapeLibrary.Tests\\ShapeLibrary.Tests.csproj|solutionrelative:shapelibrary.tests\\shapes\\triangletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74505FFB-A1A6-4513-867F-FCCE2EB7ECD8}|ShapeLibrary.Tests\\ShapeLibrary.Tests.csproj|C:\\Users\\profi\\Desktop\\ShapeLibrary\\shapelibrary.tests\\shapelibrary.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{74505FFB-A1A6-4513-867F-FCCE2EB7ECD8}|ShapeLibrary.Tests\\ShapeLibrary.Tests.csproj|solutionrelative:shapelibrary.tests\\shapelibrary.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB38DA7-3B87-4F8B-A915-272721B43681}|ShapeLibrary.Domain\\ShapeLibrary.Domain.csproj|C:\\Users\\profi\\Desktop\\ShapeLibrary\\shapelibrary.domain\\shapes\\interface\\itriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB38DA7-3B87-4F8B-A915-272721B43681}|ShapeLibrary.Domain\\ShapeLibrary.Domain.csproj|solutionrelative:shapelibrary.domain\\shapes\\interface\\itriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B667AC-6D39-4186-AD87-CA301CD450DE}|ShapeLibrary\\ShapeLibrary.Console.csproj|C:\\Users\\profi\\Desktop\\ShapeLibrary\\shapelibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B667AC-6D39-4186-AD87-CA301CD450DE}|ShapeLibrary\\ShapeLibrary.Console.csproj|solutionrelative:shapelibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShapeLibrary.Console",
+              "DocumentMoniker": "C:\\Users\\profi\\Desktop\\ShapeLibrary\\ShapeLibrary\\ShapeLibrary.Console.csproj",
+              "RelativeDocumentMoniker": "ShapeLibrary\\ShapeLibrary.Console.csproj",
+              "ToolTip": "C:\\Users\\profi\\Desktop\\ShapeLibrary\\ShapeLibrary\\ShapeLibrary.Console.csproj",
+              "RelativeToolTip": "ShapeLibrary\\ShapeLibrary.Console.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-03T17:10:28.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TriangleTests.cs",
+              "DocumentMoniker": "C:\\Users\\profi\\Desktop\\ShapeLibrary\\ShapeLibrary.Tests\\Shapes\\TriangleTests.cs",
+              "RelativeDocumentMoniker": "ShapeLibrary.Tests\\Shapes\\TriangleTests.cs",
+              "ToolTip": "C:\\Users\\profi\\Desktop\\ShapeLibrary\\ShapeLibrary.Tests\\Shapes\\TriangleTests.cs",
+              "RelativeToolTip": "ShapeLibrary.Tests\\Shapes\\TriangleTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T16:39:48.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CircleTests.cs",
+              "DocumentMoniker": "C:\\Users\\profi\\Desktop\\ShapeLibrary\\ShapeLibrary.Tests\\Shapes\\CircleTests.cs",
+              "RelativeDocumentMoniker": "ShapeLibrary.Tests\\Shapes\\CircleTests.cs",
+              "ToolTip": "C:\\Users\\profi\\Desktop\\ShapeLibrary\\ShapeLibrary.Tests\\Shapes\\CircleTests.cs",
+              "RelativeToolTip": "ShapeLibrary.Tests\\Shapes\\CircleTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T16:39:38.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShapeLibrary.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\profi\\Desktop\\ShapeLibrary\\ShapeLibrary.Tests\\ShapeLibrary.Tests.csproj",
+              "RelativeDocumentMoniker": "ShapeLibrary.Tests\\ShapeLibrary.Tests.csproj",
+              "ToolTip": "C:\\Users\\profi\\Desktop\\ShapeLibrary\\ShapeLibrary.Tests\\ShapeLibrary.Tests.csproj",
+              "RelativeToolTip": "ShapeLibrary.Tests\\ShapeLibrary.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-03T16:39:14.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\profi\\Desktop\\ShapeLibrary\\ShapeLibrary.Domain\\Shapes\\Triangle.cs",
+              "RelativeDocumentMoniker": "ShapeLibrary.Domain\\Shapes\\Triangle.cs",
+              "ToolTip": "C:\\Users\\profi\\Desktop\\ShapeLibrary\\ShapeLibrary.Domain\\Shapes\\Triangle.cs",
+              "RelativeToolTip": "ShapeLibrary.Domain\\Shapes\\Triangle.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T16:27:08.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\profi\\Desktop\\ShapeLibrary\\ShapeLibrary.Domain\\Shapes\\Circle.cs",
+              "RelativeDocumentMoniker": "ShapeLibrary.Domain\\Shapes\\Circle.cs",
+              "ToolTip": "C:\\Users\\profi\\Desktop\\ShapeLibrary\\ShapeLibrary.Domain\\Shapes\\Circle.cs",
+              "RelativeToolTip": "ShapeLibrary.Domain\\Shapes\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T16:25:22.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITriangle.cs",
+              "DocumentMoniker": "C:\\Users\\profi\\Desktop\\ShapeLibrary\\ShapeLibrary.Domain\\Shapes\\Interface\\ITriangle.cs",
+              "RelativeDocumentMoniker": "ShapeLibrary.Domain\\Shapes\\Interface\\ITriangle.cs",
+              "ToolTip": "C:\\Users\\profi\\Desktop\\ShapeLibrary\\ShapeLibrary.Domain\\Shapes\\Interface\\ITriangle.cs",
+              "RelativeToolTip": "ShapeLibrary.Domain\\Shapes\\Interface\\ITriangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T16:24:35.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICircle.cs",
+              "DocumentMoniker": "C:\\Users\\profi\\Desktop\\ShapeLibrary\\ShapeLibrary.Domain\\Shapes\\Interface\\ICircle.cs",
+              "RelativeDocumentMoniker": "ShapeLibrary.Domain\\Shapes\\Interface\\ICircle.cs",
+              "ToolTip": "C:\\Users\\profi\\Desktop\\ShapeLibrary\\ShapeLibrary.Domain\\Shapes\\Interface\\ICircle.cs",
+              "RelativeToolTip": "ShapeLibrary.Domain\\Shapes\\Interface\\ICircle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T16:21:59.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\profi\\Desktop\\ShapeLibrary\\ShapeLibrary.Domain\\Shapes\\Interface\\Shape.cs",
+              "RelativeDocumentMoniker": "ShapeLibrary.Domain\\Shapes\\Interface\\Shape.cs",
+              "ToolTip": "C:\\Users\\profi\\Desktop\\ShapeLibrary\\ShapeLibrary.Domain\\Shapes\\Interface\\Shape.cs",
+              "RelativeToolTip": "ShapeLibrary.Domain\\Shapes\\Interface\\Shape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T16:13:37.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\profi\\Desktop\\ShapeLibrary\\ShapeLibrary\\Program.cs",
+              "RelativeDocumentMoniker": "ShapeLibrary\\Program.cs",
+              "ToolTip": "C:\\Users\\profi\\Desktop\\ShapeLibrary\\ShapeLibrary\\Program.cs",
+              "RelativeToolTip": "ShapeLibrary\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T16:02:50.014Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
